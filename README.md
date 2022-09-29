@@ -1,0 +1,1 @@
+Phonebook application that was created during the Full Stack Course (University of Helsinki in Spring 2020).  Built for hosting on Heroku and uses MongoDB for accessing and storing data.  Follows REST API and uses a CRUD cycle.
